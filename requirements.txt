@@ -1,0 +1,13 @@
+# Core AI packages
+openai>=1.0.0
+python-dotenv
+spacy
+
+# GUI components
+PySide6
+
+# NLP processing (optional)
+# spacy-transformers
+
+# Utilities
+tqdm

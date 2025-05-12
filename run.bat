@@ -1,0 +1,3 @@
+@echo off
+echo Starting Novel Assistant...
+C:\Users\Sanch\AppData\Local\Programs\Python\Python310\python.exe main_gui.py
